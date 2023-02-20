@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+  .container {
+  max-width: 750px;
+}
+
+h1 {
+  margin: 2rem 0;
+}
+
+.conversation {
+  border-left: solid 9px lightgray;
+  padding: 0.5rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.coach {
+  background-color: lightyellow;
+}
